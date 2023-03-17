@@ -11,7 +11,7 @@
 
 **使用方法：**
 
-1. 下载安装 [nodejs](https://nodejs.org) 安装版 (版本必须高于v12.16)
+1. 下载安装 [nodejs](https://nodejs.org) 安装版 (版本必须高于v14)
 2. 下载此源码包 (建议用`git clone`)  
 3. 运行 `node index 123456789` (数字是登陆账号)将在home目录下生成icqq目录
 3. 修改 `home/icqq/config.js` 配置
