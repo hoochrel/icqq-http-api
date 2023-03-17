@@ -1,0 +1,16 @@
+{
+  "name": "icqq-http-api",
+  "version": "0.0.1",
+  "description": "onebot http-api",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "engines": {
+    "node": ">= v14"
+  },
+  "dependencies": {
+    "icqq": "^0.0.32",
+    "ws": "^8.13.0"
+  }
+}
