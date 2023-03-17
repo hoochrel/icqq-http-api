@@ -14,8 +14,8 @@
 1. 下载安装 [nodejs](https://nodejs.org) 安装版 (版本必须高于v14)
 2. 下载此源码包 (建议用`git clone`)  
 3. 运行 `node index 123456789` (数字是登陆账号)将在home目录下生成icqq目录
-3. 修改 `home/icqq/config.js` 配置
-4. 运行 `node index 123456789` (数字是登陆账号)
+4. 修改 `/home/icqq/config.js` 配置
+5. 运行 `node index 123456789` (数字是登陆账号)
 
 * 今后启动只需最后一步
 * 只有首次登陆时需要交互(密码、验证码、设备锁)，之后推荐使用pm2或forever等部署工具。
